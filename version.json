@@ -1,0 +1,17 @@
+{
+  "version_code": 20,
+  "version_name": "4.0",
+  "release_date": "2026-11-04",
+  "min_supported_version": "2.0",
+  "changelog_ta": "• 📅 1-வருட உரிமக் கணக்கீடு: புதிய 365 நாட்கள் செல்லுபடி மற்றும் 30-நாள் புதுப்பித்தல் எச்சரிக்கை அறிவிப்பு அறிமுகம்\n• ⏱️ DA கணக்கீட்டில் 'நேரப்படி கணக்கீடு' மட்டும் வைக்கப்பட்டு நேரத்திற்கு ஏற்ப தானாக DA சதவீதக் கணக்கீடு அமைதல்\n• 🕒 புறப்படும் நேரம் விரைவுத் தேர்வில் 11:00 மு.ப, 12:30 பி.ப, 01:30 பி.ப, 02:00 பி.ப, 02:30 பி.ப சேர்த்தல்\n• 🔤 இலவச சோதனை அட்டை & 3 பொத்தான்கள் வெட்டப்படாமல் பெரிய பளிச்சென்ற எழுத்துக்களுடன் அமைத்தல்",
+  "changelog_en": "• 📅 License: 1-Year validity (365 days) with 30-day early renewal warning alert\n• ⏱️ Pure time-based DA calculation with clean single-click recalc\n• 🕒 Added 11:00 AM, 12:30 PM, 01:30 PM, 02:00 PM, 02:30 PM to departure presets\n• 🔤 Senior-friendly large high-contrast fonts & clean UI",
+  "android": {
+    "apk_url": "https://raw.githubusercontent.com/kumarmvsc/ta-bill-helper/main/TA_Bill_Helper.apk",
+    "file_size": "8.9 MB"
+  },
+  "desktop": {
+    "zip_url": "https://raw.githubusercontent.com/kumarmvsc/ta-bill-helper/main/TA_Bill_Helper_Desktop.zip",
+    "exe_url": "https://raw.githubusercontent.com/kumarmvsc/ta-bill-helper/main/TA_Bill_Helper.exe",
+    "file_size": "36.8 MB"
+  }
+}
